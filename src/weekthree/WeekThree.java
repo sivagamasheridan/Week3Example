@@ -7,7 +7,7 @@ package weekthree;
 
 /**
  *
- * @author srinivsi
+ * @author srinivsi - sivagama
  */
 public class WeekThree {
 
