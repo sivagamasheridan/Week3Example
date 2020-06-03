@@ -22,7 +22,7 @@ public class WeekThree {
         //Fetch operation
         //editing in branch
         //edited branch in remote rep
-        //second branch
+        //second branch edited remote rep
     }
     
 }
